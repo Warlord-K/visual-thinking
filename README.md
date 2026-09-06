@@ -6,7 +6,7 @@ Visual Thinking is an agent skill for generating images, inspecting the actual r
 
 https://github.com/user-attachments/assets/96f393cd-0e25-488f-a387-cdb76c2cc239
 
-Seam Studio, 30 seconds, 9.08 MB
+Seam Studio, 30 seconds, Done in 5 minutes!
 
 ## What it does
 
