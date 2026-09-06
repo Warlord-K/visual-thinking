@@ -4,9 +4,9 @@ Turn product ideas and real interfaces into visual concepts before you build.
 
 Visual Thinking is an agent skill for generating images, inspecting the actual result, and making focused revisions. It also covers short launch films built from clear visual states instead of asking a video model to invent the whole story at once.
 
-[![Watch the Seam Studio launch film](media/seam-studio-poster.jpg)](https://github.com/Warlord-K/visual-thinking/releases/download/v0.1.0/seam-studio.mp4)
+https://github.com/user-attachments/assets/96f393cd-0e25-488f-a387-cdb76c2cc239
 
-[Watch the 30-second Seam Studio film](https://github.com/Warlord-K/visual-thinking/releases/download/v0.1.0/seam-studio.mp4)
+Seam Studio, 30 seconds, 9.08 MB
 
 ## What it does
 
